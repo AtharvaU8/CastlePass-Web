@@ -6,7 +6,7 @@ var config = {
   onMouseoutSquare: onMouseoutSquare,
   onMouseoverSquare: onMouseoverSquare,
   onSnapEnd: onSnapEnd,
-  pieceTheme: "../src/assets/img/chesspieces/wikipedia/{piece}.png" 
+  pieceTheme: "assets/img/chesspieces/wikipedia/{piece}.png"  
 };
 board = Chessboard('myBoard', config);
 
