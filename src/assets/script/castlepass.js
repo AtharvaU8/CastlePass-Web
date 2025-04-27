@@ -241,6 +241,7 @@ function makePiecesUndraggable() {
   onMouseoutSquare: onMouseoutSquare,
   onMouseoverSquare: onMouseoverSquare,
   onSnapEnd: onSnapEnd,
+  pieceTheme: "assets/img/chesspieces/wikipedia/{piece}.png" 
   });
   // console.log('board disabled')
 }
