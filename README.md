@@ -1,6 +1,6 @@
 [link-chrome]: https://chromewebstore.google.com/detail/imedbekciejflfnbpeliamodjaldecod/ 'Chrome Web Store'
 <p align="center">
- <img src="https://i.ibb.co/9H8bs1J2/chess-icon.png" alt="chess-icon" width="180" border="0" /><h2 align="center">CastlePass</h2>
+ <img src="https://i.ibb.co/9H8bs1J2/chess-icon.png" alt="chess-icon" width="180" border="0" /><h2 align="center">CastlePass Web</h2>
 </p>
 
 
@@ -21,8 +21,7 @@ CastlePass is a unique and innovative password generator chrome extension that t
 
 - Password Generation Using Chess Moves – Your game with the bot creates a unique, strong and hashed password.
 - Smart Chess Move Suggestions – Need help? Get chess move suggestions.
-- Instant Password Insertion – Auto-fill generated passwords in password fields.
-
+  
 ### Security
 
 - SHA-256 Hashing – Every password is generated using the SHA-256 hashing algorithm, ensuring high security and randomness.
@@ -37,7 +36,7 @@ CastlePass is a unique and innovative password generator chrome extension that t
 
 - Custom Password Feature (Secure & Private) – Store and retrieve your custom passwords securely using encrypted chess moves.
 - Password Manager - A secure and unique password manager.
-- Multiple Chess Engines – More bot difficulty levels and better gameplay to generate even more randomized passwords..
+- Multiple Chess Engines – More bot difficulty levels and better gameplay to generate even more randomized passwords.
 - User Move Validation – Ensure your moves follow strong security rules.
 - Enhanced Security – Implementing even stronger encryption methods beyond hashing for added protection.
 - Multi-Platform Support – Expanding to mobile and other platforms for wider accessibility.
@@ -45,28 +44,6 @@ CastlePass is a unique and innovative password generator chrome extension that t
 We aim to revolutionize password security by making it interactive and more engaging. Stay tuned for future updates! Your password security is about to get a whole lot smarter!
 
 <br>
-
-## Manual installation
-
-<!-- Don't forget to disable the extension installed from the Web Store while you're testing manually installed version. -->
-
-### Chrome
-1. Download the prebuilt chrome zip file from [here](build) or clone it:
-   
-   		git clone https://github.com/AtharvaU8/CastlePass.git
-   
-3. Unzip the file.
-4. Open chrome://extensions in Chrome.
-5. Enable developer mode (top right corner).
-6. Click on Load unpacked and select the unzipped folder.
-7. Extension should now be installed and running!
-
-## Browser Compatibility
-
-For Now we're compatible with only chrome browser.
-
-- **Chrome Browser**
-
 
 ## Donations
 
