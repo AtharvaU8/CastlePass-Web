@@ -194,6 +194,9 @@ function resetAll() {
   $('#advantageColor').text('Neither side');
   $('#advantageNumber').text(globalSum);
 
+  const passwordDisplay = document.querySelector('.password');
+  passwordDisplay.value = 'Generated Password';
+
 
   // Disable buttons (if any are active)
   document.getElementById("copyMovesButton").disabled = true;
